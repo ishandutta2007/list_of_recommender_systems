@@ -87,3 +87,10 @@ In addition to generic recommender systems, I decided to add a list of applicati
 ## Books
 
 1. [Practical Recommender Systems](https://manning.com/books/practical-recommender-systems-cx) by Kim Falk (Manning Publications). [Chapter 1](https://manning.com/books/practical-recommender-systems-cx#downloads)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
